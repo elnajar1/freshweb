@@ -1,0 +1,211 @@
+/* librarys.php*/
+.library-header{
+	background : black url("../img/library_2.jpg") no-repeat ;
+	background-size : cover;
+}
+
+/* library */
+.add-section-form-container{
+	display : none ;
+    position: fixed;
+	top: 150px;
+	left : 10px ;
+	z-index : 3;
+}
+
+.library-card{
+	position:relative;
+	display:inline-block;
+       overflow: hidden;
+       padding:0px;
+       max-height:150px;
+}
+
+.library-card-img-top{
+	min-width:130%;
+	min-height:180%;
+}
+
+
+.library-card-body{
+	position:absolute;
+	bottom:0px;
+	width:100%;
+	background:rgba(255,255,255,0.8);
+}
+
+
+
+.img-container{
+	
+	overflow-x:scroll;
+	overflew-y: hidden;
+	white-space: nowrap;
+}
+/*loading circle */
+.lds-hourglass {
+  display: inline-block;
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+.lds-hourglass:after {
+  content: " ";
+  display: block;
+  border-radius: 50%;
+  width: 0;
+  height: 0;
+  margin: 6px;
+  box-sizing: border-box;
+  border: 26px solid #7552CF;
+  border-color: #7552CF transparent #7552CF transparent;
+  animation: lds-hourglass 1.2s infinite;
+}
+@keyframes lds-hourglass {
+  0% {
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  100% {
+    transform: rotate(1800deg);
+  }
+}
+
+/* Style the Image Used to Trigger the Modal */
+#myImg {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.img-modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.img-modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.img-modal-content, #caption { 
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+  from {transform:scale(0)}
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
+}
+
+.lec-img-container{
+	position:relative;
+	width:40%;
+	height:150px;
+	margin:10px;
+	box-shadow: 0px 0px 10px grey;
+	display:inline-block;
+    overflow: hidden;
+}
+
+.lec-img{
+	max-width:130%;
+	max-height:180%;
+}
+
+.lec-img-info{
+	position:absolute;
+	bottom:0px;
+	width:100%;
+	background:rgba(255,255,255,0.8);
+}
+
+.lec-img-info h1 ,h2 ,a ,p{
+	display:inline-block;
+	margin:2px;
+	border:0px;
+}
+
+.lec-img-info h1{
+	font-size:14px;
+	width:80%;
+	
+}
+
+.lec-img-info h2{
+	font-size:12px;
+	color:grey;
+	width:70%;
+}
+
+.lec-img-info  p{
+	font-size:11px;
+	color:grey;
+	text-align:right;
+}
+
+.lec-img-info > a{
+	color:blue;
+	font-size:12px;
+	text-align:right;
+}
+
+    
+    

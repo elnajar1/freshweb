@@ -1,0 +1,10 @@
+.add-library-advise{
+	background : black url("../img/library.jpg") no-repeat ;
+	background-size : cover;
+}
+
+.library-card{
+	background : black url("../img/books.jpg") no-repeat ;
+	background-size : cover;
+}
+}

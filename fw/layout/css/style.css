@@ -1,0 +1,41 @@
+.signup{
+    border: solid #eee 1px;
+    background-color:#Fff;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px  #ccc ;
+    padding: 10px;
+    margin: auto;
+}
+.signin{
+    border: solid #eee 1px;
+    background-color:#fff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 0px ;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20%;
+}
+.empty-div{
+    background-color: #ccc;
+    margin:auto;
+    padding:1px;
+    display: block;
+    width: 2px;
+    text-align: center;
+    height: 42%;
+}
+.form-group .form-control{
+        /*
+        border-radius: 10px;
+  	box-shadow:3px 2px  2px #ccc ;*/
+}
+.error{
+    width: 92%;
+    margin:5px auto;
+    padding: 5px;
+    border: 1px solid #a94442;
+    color: #a94442;
+    background-color: #f2dede;
+    border-radius: 5px;
+    text-align: center;
+}

@@ -1,0 +1,179 @@
+
+
+.white{
+	background :#F2F2F2;
+}
+
+.brand-blue{
+	color:#7552CF;
+}
+
+nav{
+	box-shadow: 2px 0px 3px #7552CF;
+}
+
+.logo{
+	max-width:50px;
+}
+
+.aw{
+	background: white;
+	color:#7552CF;
+	border: 0.5px solid #7552CF;
+	box-shadow: 2px 2px 2px #7552CF;
+	padding: 3px 20px;
+	border-radius: 10px 10px;
+}
+
+.ab{
+	background: #7552CF;
+	color:white;
+	border: 0.2px solid #7552CF;
+	box-shadow: 1px 1px 2px #7552CF;
+	padding: 3px 20px;
+	border-radius: 10px 10px;
+	font-size:15;
+}
+
+.br{
+	border-radius:50% 50%;
+	box-shadow: 2px 2px 2px #7552CF;
+	border: 1px solid #7552CF;
+	padding: 10px 10px;
+}
+
+.friendsdad{
+
+	margin:50px 0px; 
+	border-right:1px solid grey;
+}
+
+.friendsdad h2{
+	color:#7552CF;
+	font-size:15px;
+	font-weight: bold;
+}
+
+.friends{
+	margin: 5px 5px;
+}
+
+
+.friends h1{
+	font-size:20px;
+	display: inline-block;
+	margin: 0px
+}
+
+.friends img{
+	max-width: 50px;
+	border-radius:50% 50%;
+}
+
+.friends p{
+	font-size: 10px;
+	color: grey;
+	display: inline;
+	margin: 0px
+}
+
+
+.vevtor-send{
+	margin: 20px 60px;
+	border-radius:50% 50%;
+	max-width: 100px;
+}
+
+
+
+.form h1{
+	font-size:25px;
+	margin-left:10px;
+}
+
+.form p{
+	font-size:10px;
+	padding:3px;
+}
+
+.send-img{
+	color: #7552CF; 
+	font-size:20px;
+}
+
+.send-img:hover{
+	background:#7552CF;
+	color:white;
+}
+
+
+.foter{
+	/*position: absolute;
+	bottom: 0px;*/
+	color: #7552CF;
+	width: 100%;
+	padding: 0px 20px;
+	font-size:12px;
+
+}
+.foter img{
+	max-width: 250px;
+}
+
+.messege{
+	font-size: 14px;
+	background:white;
+	padding:10px 10px 0px 10px;
+	border: 0.3px solid #7552CF;
+	border-radius:3px 3px;
+	box-shadow: 0.5px 0.5px 0.5px grey;
+}
+
+.messege p span{
+	color: #7552CF;
+}
+
+.sender{
+	font-size: 14px;
+	display:inline;
+}
+
+.time > span{
+	float: right;
+	font-size: 13px;
+}
+
+.time a:hover{
+	text-decoration: none;
+	font-weight:bold;
+}
+
+.time a span:hover{
+	color:red;
+}
+
+audio{
+	margin: auto;
+	display: block;
+	border-radius: 20px;
+}
+
+.messege img{
+	max-width: 300px;
+	display: block;
+	margin: auto;
+	border-radius: 10px;
+	margin: 5px auto;
+}
+
+.chat{
+	margin: 30px auto;
+	border-right: 1px solid orange;
+}
+
+/* -- ------------ register ----- ----- */
+.signup{
+    border: solid #0f0 1px;
+    background-color:red;
+}
+    

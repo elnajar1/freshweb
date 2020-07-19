@@ -1,0 +1,242 @@
+[14-Jan-2020 21:20:07 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[14-Jan-2020 21:20:07 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[14-Jan-2020 21:20:07 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[14-Jan-2020 21:20:07 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[14-Jan-2020 21:20:07 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[14-Jan-2020 21:20:07 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[14-Jan-2020 21:20:07 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[14-Jan-2020 21:20:07 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[14-Jan-2020 21:20:07 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[15-Jan-2020 00:47:08 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[15-Jan-2020 00:47:10 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[15-Jan-2020 00:47:12 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[15-Jan-2020 00:47:41 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[15-Jan-2020 00:47:43 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[15-Jan-2020 00:47:44 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[15-Jan-2020 00:47:51 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 02:27:41 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 02:28:08 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 02:29:47 Africa/Cairo] PHP Notice:  Undefined variable: university_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/addGroup.php on line 99
+[16-Jan-2020 02:29:47 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 02:34:28 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 02:39:31 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 02:39:32 Africa/Cairo] PHP Notice:  Undefined variable: university_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/addGroup.php on line 99
+[16-Jan-2020 02:39:32 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 05:06:10 Africa/Cairo] PHP Notice:  Undefined variable: university_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/addGroup.php on line 99
+[16-Jan-2020 05:06:10 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 05:06:15 Africa/Cairo] PHP Notice:  Undefined variable: university_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/addGroup.php on line 99
+[16-Jan-2020 05:06:15 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 05:07:04 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 05:07:24 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 05:08:04 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 05:08:40 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Jan-2020 05:08:49 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[18-Jan-2020 20:16:52 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[18-Jan-2020 20:16:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Undefined index: id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/functions.php on line 196
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[18-Jan-2020 22:16:52 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[19-Jan-2020 00:09:34 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[19-Jan-2020 00:09:38 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[19-Jan-2020 00:09:40 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[20-Jan-2020 06:54:11 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[20-Jan-2020 06:54:11 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[20-Jan-2020 06:54:11 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[20-Jan-2020 06:54:11 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[20-Jan-2020 08:54:11 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[21-Jan-2020 15:16:29 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[21-Jan-2020 15:16:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupMembers.php on line 9
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 16
+[21-Jan-2020 17:16:29 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[23-Jan-2020 00:52:59 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[23-Jan-2020 00:52:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[23-Jan-2020 02:52:59 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[24-Jan-2020 14:37:59 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[24-Jan-2020 14:37:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupMembers.php on line 9
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 16
+[24-Jan-2020 16:37:59 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 11:40:14 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 11:43:38 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 11:43:40 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 11:43:48 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 11:43:54 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 11:44:01 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 11:44:03 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 11:44:19 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 11:44:22 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 11:45:01 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 10:05:29 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[25-Jan-2020 10:05:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[25-Jan-2020 12:05:29 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 16:15:55 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 16:16:56 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 17:27:04 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 17:27:21 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 17:27:23 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[25-Jan-2020 17:28:40 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[26-Jan-2020 09:52:05 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[26-Jan-2020 09:52:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Undefined index: id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/functions.php on line 196
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[26-Jan-2020 11:52:05 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[27-Jan-2020 01:10:14 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[27-Jan-2020 01:10:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[27-Jan-2020 03:10:14 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[27-Jan-2020 02:35:36 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[27-Jan-2020 02:35:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[27-Jan-2020 04:35:36 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[28-Jan-2020 20:35:43 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[28-Jan-2020 20:35:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[28-Jan-2020 22:35:43 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[15-Feb-2020 08:44:00 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[15-Feb-2020 08:44:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupMembers.php on line 9
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 16
+[15-Feb-2020 10:44:01 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[16-Feb-2020 08:09:27 UTC] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[16-Feb-2020 08:09:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 43
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 67
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/messages_server.php on line 76
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupMembers.php on line 9
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 185
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type bool in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/server.php on line 191
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 16
+[16-Feb-2020 10:09:27 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[21-Feb-2020 22:58:56 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[21-Feb-2020 23:05:37 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[21-Mar-2020 20:22:15 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[27-Mar-2020 01:31:32 Africa/Cairo] PHP Notice:  Undefined variable: user_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/groupProfile.php on line 55
+[27-Mar-2020 01:31:32 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[28-Mar-2020 12:14:56 Africa/Cairo] PHP Notice:  Undefined variable: university_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/addGroup.php on line 99
+[28-Mar-2020 12:14:56 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[28-Mar-2020 12:15:49 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[28-Mar-2020 12:19:23 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[28-Mar-2020 12:20:25 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[28-Mar-2020 12:20:54 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[28-Mar-2020 12:21:05 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[28-Mar-2020 12:21:12 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[28-Mar-2020 12:21:17 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[28-Mar-2020 12:21:27 Africa/Cairo] PHP Notice:  Undefined index: id in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/functions.php on line 196
+[28-Mar-2020 12:21:27 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[30-Mar-2020 20:14:08 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51
+[31-Mar-2020 15:08:40 Africa/Cairo] PHP Notice:  Undefined variable: university_id in /home/u725001497/domains/freshweb.tech/public_html/fw/group/addGroup.php on line 99
+[31-Mar-2020 15:08:40 Africa/Cairo] PHP Notice:  Undefined variable: loginURL in /home/u725001497/domains/freshweb.tech/public_html/fw/includes/footer.php on line 51

@@ -1,0 +1,20 @@
+[30-May-2019 15:07:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/elnajar1/public_html/fw/includes/header.php on line 273
+[30-May-2019 17:37:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'register.php' 
+	ORDER BY fw_visits.id DESC
+	LIMIT 700' at line 6 in /home3/elnajar1/public_html/fw/admin/visits.php:16
+Stack trace:
+#0 /home3/elnajar1/public_html/fw/admin/visits.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/elnajar1/public_html/fw/admin/visits.php on line 16
+[09-Jun-2019 09:56:15 Africa/Cairo] PHP Warning:  include(../../fresh_code/index.php): failed to open stream: No such file or directory in /home3/elnajar1/public_html/fw/admin/addScienceField.php on line 36
+[09-Jun-2019 09:56:15 Africa/Cairo] PHP Warning:  include(../../fresh_code/index.php): failed to open stream: No such file or directory in /home3/elnajar1/public_html/fw/admin/addScienceField.php on line 36
+[09-Jun-2019 09:56:15 Africa/Cairo] PHP Warning:  include(): Failed opening '../../fresh_code/index.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/elnajar1/public_html/fw/admin/addScienceField.php on line 36
+[09-Jun-2019 09:56:30 Africa/Cairo] PHP Warning:  include(../../fresh_code/index.php): failed to open stream: No such file or directory in /home3/elnajar1/public_html/fw/admin/addSemester.php on line 51
+[09-Jun-2019 09:56:30 Africa/Cairo] PHP Warning:  include(../../fresh_code/index.php): failed to open stream: No such file or directory in /home3/elnajar1/public_html/fw/admin/addSemester.php on line 51
+[09-Jun-2019 09:56:30 Africa/Cairo] PHP Warning:  include(): Failed opening '../../fresh_code/index.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/elnajar1/public_html/fw/admin/addSemester.php on line 51
+[09-Jun-2019 09:56:39 Africa/Cairo] PHP Warning:  include(../../fresh_code/index.php): failed to open stream: No such file or directory in /home3/elnajar1/public_html/fw/admin/addUniversity.php on line 60
+[09-Jun-2019 09:56:39 Africa/Cairo] PHP Warning:  include(../../fresh_code/index.php): failed to open stream: No such file or directory in /home3/elnajar1/public_html/fw/admin/addUniversity.php on line 60
+[09-Jun-2019 09:56:39 Africa/Cairo] PHP Warning:  include(): Failed opening '../../fresh_code/index.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/elnajar1/public_html/fw/admin/addUniversity.php on line 60
+[09-Jun-2019 09:56:55 Africa/Cairo] PHP Warning:  include(../../fresh_code/index.php): failed to open stream: No such file or directory in /home3/elnajar1/public_html/fw/admin/addUniversity.php on line 60
+[09-Jun-2019 09:56:55 Africa/Cairo] PHP Warning:  include(../../fresh_code/index.php): failed to open stream: No such file or directory in /home3/elnajar1/public_html/fw/admin/addUniversity.php on line 60
+[09-Jun-2019 09:56:55 Africa/Cairo] PHP Warning:  include(): Failed opening '../../fresh_code/index.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/elnajar1/public_html/fw/admin/addUniversity.php on line 60
